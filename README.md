@@ -44,6 +44,10 @@
   <a href="https://github.com/pranavgnn/mutualfunds-calc" target="_blank" style="text-decoration: none;">
     <img src="projects/mutualfunds-calc.svg" alt="Mutual Funds Calculator Project" width="400">
   </a>
+
+  <a href="https://github.com/pranavgnn/epicbot-js" target="_blank" style="text-decoration: none;">
+    <img src="projects/epicord.svg" alt="EpiCord Discord Bot Project" width="400">
+  </a>
 </div>
 
 ## Contact

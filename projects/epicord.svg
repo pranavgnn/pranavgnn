@@ -1,0 +1,38 @@
+<svg width="400" height="180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 180">
+  <rect width="400" height="180" rx="10" ry="10" fill="#2D333B" stroke="#444c56" stroke-width="1"/>
+  
+  <!-- Header with terminal look -->
+  <rect x="10" y="10" width="380" height="30" rx="5" ry="5" fill="#1C1E26"/>
+  <circle cx="25" cy="25" r="6" fill="#FF5F56"/>
+  <circle cx="45" cy="25" r="6" fill="#FFBD2E"/>
+  <circle cx="65" cy="25" r="6" fill="#27C93F"/>
+  <text x="200" y="28" font-family="Arial" font-size="12" text-anchor="middle" fill="white">epicord.js</text>
+  
+  <!-- Project details -->
+  <text x="20" y="60" font-family="Arial" font-size="16" font-weight="bold" fill="#E6EDF3">📂 EpiCord</text>
+  
+  <!-- Description with text wrapping -->
+  <foreignObject x="20" y="70" width="360" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Arial; font-size: 12px; color: #768390;">
+      A multi-purpose discord bot built on Discord.js V12, with loads of utility, fun, moderation and currency commands
+    </div>
+  </foreignObject>
+
+  <!-- Tech stack -->
+  <text x="20" y="125" font-family="Arial" font-size="12" fill="#ADBAC7">
+    <tspan font-weight="bold">Tech stack: </tspan>
+    <tspan fill="#F1E05A">JavaScript</tspan>
+    <tspan> + </tspan>
+    <tspan fill="#5865F2">DiscordJS</tspan>
+    <tspan> + </tspan>
+    <tspan fill="#13AA52">MongoDB</tspan>
+    <tspan> + </tspan>
+    <tspan fill="#880000">Express</tspan>
+  </text>
+
+  <text x="20" y="150" font-family="monospace" font-size="12" fill="#FFFFFF">
+    <tspan fill="#00FF00">pranav@portfolio:~$</tspan>
+    <tspan>npm </tspan>
+    <tspan fill="#9A5AC2">start</tspan>
+  </text>
+</svg>
