@@ -33,39 +33,17 @@
 </div>
 
 <div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
-  <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <a href="https://github.com/Finova-MIT/finova-website" target="_blank" style="text-decoration: none;">
     <img src="projects/finova-website.svg" alt="Finova Website Project" width="400">
-    <div style="display: flex; gap: 10px; margin-top: 10px;">
-      <a href="https://github.com/Finova-MIT/finova-website" target="_blank">
-        <img src="buttons/github-repo.svg" alt="GitHub Repository" height="40">
-      </a>
-      <a href="https://www.finovamanipal.org" target="_blank">
-        <img src="buttons/live-demo.svg" alt="Live Demo" height="40">
-      </a>
-    </div>
-  </div>
+  </a>
   
-  <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <a href="https://github.com/pranavgnn/lyrics-video-maker" target="_blank" style="text-decoration: none;">
     <img src="projects/lyrics-video-maker.svg" alt="Lyrics Video Maker Project" width="400">
-    <div style="display: flex; gap: 10px; margin-top: 10px;">
-      <a href="https://github.com/pranavgnn/lyrics-video-maker" target="_blank">
-        <img src="buttons/github-repo.svg" alt="GitHub Repository" height="40">
-      </a>
-    </div>
-  </div>
+  </a>
   
-  <div style="display: flex; flex-direction: column; align-items: center; margin-bottom: 20px;">
+  <a href="https://github.com/pranavgnn/mutualfunds-calc" target="_blank" style="text-decoration: none;">
     <img src="projects/mutualfunds-calc.svg" alt="Mutual Funds Calculator Project" width="400">
-    <div style="display: flex; gap: 10px; margin-top: 10px;">
-      <a href="https://github.com/pranavgnn/mutualfunds-calc" target="_blank">
-        <img src="buttons/github-repo.svg" alt="GitHub Repository" height="40">
-      </a>
-    </div>
-  </div>
-</div>
-
-<div align="center">
-  <small><i>Last updated: 2025-03-10 16:42:06 UTC by pranavgnn</i></small>
+  </a>
 </div>
 
 ## Contact
