@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="terminal_header.svg" alt="Terminal Header">
+  <img src="terminal_header.svg" alt="Terminal Header" width="1000">
 </div>
 
 <br>
@@ -56,18 +56,15 @@
   <img src="commands/cat_contact.svg" alt="Command: cat contact.md">
 </div>
 
-<div align="left">
-  <a href="https://www.instagram.com/pranav.idk" target="_blank">
-    <img src="socials/instagram.svg" alt="Instagram" width="20" height="20">
+<div align="center">
+  <a href="https://www.instagram.com/pranav.idk">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" width="32" height="32">
   </a>
-  <a href="https://www.linkedin.com/in/pranav-g-nayak-a68101146" target="_blank">
-    <img src="socials/linkedin.svg" alt="LinkedIn" width="20" height="20">
+  <a href="https://www.linkedin.com/in/pranav-g-nayak-a68101146">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" width="32" height="32">
   </a>
-  <a href="https://pranavgn.me" target="_blank">
-    <img src="socials/website.svg" alt="Portfolio Website" width="20" height="20">
-  </a>
-  <a href="https://discord.com/users/vex.what" target="_blank">
-    <img src="socials/discord.svg" alt="Discord" width="20" height="20">
+  <a href="https://discord.com/users/vex.what">
+    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" alt="Discord" width="32" height="32">
   </a>
 </div>
 
