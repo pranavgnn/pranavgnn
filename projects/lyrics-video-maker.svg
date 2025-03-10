@@ -1,5 +1,5 @@
-<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
-  <rect width="400" height="200" rx="10" ry="10" fill="#2D333B" stroke="#444c56" stroke-width="1"/>
+<svg width="400" height="180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 180">
+  <rect width="400" height="180" rx="10" ry="10" fill="#2D333B" stroke="#444c56" stroke-width="1"/>
   
   <!-- Header with terminal look -->
   <rect x="10" y="10" width="380" height="30" rx="5" ry="5" fill="#1C1E26"/>
@@ -11,9 +11,15 @@
   <!-- Project details -->
   <text x="20" y="60" font-family="Arial" font-size="16" font-weight="bold" fill="#E6EDF3">📂 lyrics-video-maker</text>
   
-  <text x="20" y="85" font-family="Arial" font-size="12" fill="#768390">An automation CLI that creates Lyrical Music Videos given the song name and the artist.</text>
+  <!-- Description with text wrapping -->
+  <foreignObject x="20" y="70" width="360" height="50">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Arial; font-size: 12px; color: #768390;">
+      An automation CLI that creates Lyrical Music Videos given the song name and the artist.
+    </div>
+  </foreignObject>
 
-  <text x="20" y="115" font-family="Arial" font-size="12" fill="#ADBAC7">
+  <!-- Tech stack -->
+  <text x="20" y="125" font-family="Arial" font-size="12" fill="#ADBAC7">
     <tspan font-weight="bold">Tech stack: </tspan>
     <tspan fill="#3572A5">Python3</tspan>
     <tspan> + </tspan>
@@ -25,16 +31,10 @@
     <tspan> + </tspan>
     <tspan fill="#FFA500">Librosa</tspan>
   </text>
-  
-  <!-- Links as terminal commands -->
-  <text x="20" y="145" font-family="monospace" font-size="12" fill="#00FF00">pranavgnn@portfolio:~$</text>
-  <text x="190" y="145" font-family="monospace" font-size="12" fill="#FFFFFF">open</text>
-  <a href="https://github.com/pranavgnn/lyrics-video-maker" target="_blank">
-    <text x="225" y="145" font-family="monospace" font-size="12" fill="#3498DB" text-decoration="underline">github-repo</text>
-  </a>
-  
-  <text x="20" y="170" font-family="monospace" font-size="12" fill="#00FF00">pranavgnn@portfolio:~$</text>
-  <text x="190" y="170" font-family="monospace" font-size="12" fill="#FFFFFF">python</text>
-  <text x="235" y="170" font-family="monospace" font-size="12" fill="#9A5AC2">main.py</text>
-  <text x="280" y="170" font-family="monospace" font-size="12" fill="#3498DB">--song "Your Song"</text>
+
+  <text x="20" y="150" font-family="monospace" font-size="12" fill="#FFFFFF">
+    <tspan fill="#00FF00">pranav@portfolio:~$</tspan>
+    <tspan>python </tspan>
+    <tspan fill="#3498DB">main.py</tspan>
+  </text>
 </svg>
