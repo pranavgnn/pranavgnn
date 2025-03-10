@@ -4,13 +4,13 @@
 
 <br>
 
-<div align="center">
+<div align="left">
   <img src="commands/ls.svg" alt="Command: ls">
 </div>
 
 ## About Me
 
-<div align="center">
+<div align="left">
   <img src="commands/cat_about.svg" alt="Command: cat about.md">
 </div>
 
@@ -28,7 +28,7 @@
 
 ## Projects
 
-<div align="center">
+<div align="left">
   <img src="commands/cat_projects.svg" alt="Command: cat projects.md">
 </div>
 
@@ -52,7 +52,7 @@
 
 ## Contact
 
-<div align="center">
+<div align="left">
   <img src="commands/cat_contact.svg" alt="Command: cat contact.md">
 </div>
 
