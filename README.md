@@ -57,16 +57,16 @@
 
 <div align="center">
   <a href="https://www.instagram.com/pranav.idk">
-    <img src="socials/instagram.svg" alt="Instagram">
+    <img src="socials/instagram.svg" alt="Instagram" width="40" height="40">
   </a>
   <a href="https://www.linkedin.com/in/pranav-g-nayak-a68101146">
-    <img src="socials/linkedin.svg" alt="LinkedIn">
+    <img src="socials/linkedin.svg" alt="LinkedIn" width="40" height="40">
   </a>
-  <a href="https://your_portfolio_website.com">
-    <img src="https://pranavgn.me" alt="Portfolio Website">
+  <a href="https://pranavgn.me">
+    <img src="socials/website.svg" alt="Portfolio Website" width="40" height="40">
   </a>
   <a href="https://discord.com/users/vex.what">
-    <img src="socials/discord.svg" alt="Discord">
+    <img src="socials/discord.svg" alt="Discord" width="40" height="40">
   </a>
 </div>
 
@@ -78,6 +78,6 @@
 
 <div align="center">
   <pre style="background-color: #333; padding: 10px; border-radius: 5px; color: #00FF00; display: inline-block; text-align: left;">
-    pranav@portfolio:~$ <span style="color: #FFFFFF;">echo</span> <span style="color: #3498db;">"Thanks for visiting my profile!"</span>
+    pranavgnn@portfolio:~$ <span style="color: #FFFFFF;">echo</span> <span style="color: #3498db;">"Thanks for visiting my profile!"</span>
   </pre>
 </div>
