@@ -23,7 +23,8 @@
 
 🌱 I'm always learning and exploring new technologies.
 
-🎓 2nd year BTech student pursuing Computer Science and Financial Technology @ Manipal Institute of Technology, and Integrated MTech in entrepreneurship.
+🎓 2nd year BTech student pursuing Computer Science and Financial Technology @ Manipal Institute of Technology
+    and Integrated MTech in entrepreneurship.
 ```
 
 ## Projects
