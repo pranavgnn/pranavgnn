@@ -1,0 +1,12 @@
+<svg width="800" height="30" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    .prompt { fill: #00FF00; } /* Green color for prompt */
+    .command { fill: #FFFFFF; } /* White for command */
+    .param { fill: #3498db; }   /* Blue for parameters */
+  </style>
+  <text x="10" y="20" font-family="monospace" font-size="14">
+    <tspan class="prompt">pranav@portfolio:~$</tspan>
+    <tspan class="command" dx="5">cat</tspan>
+    <tspan class="param" dx="5">about.md</tspan>
+  </text>
+</svg>
