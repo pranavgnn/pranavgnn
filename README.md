@@ -65,6 +65,8 @@
 📱 Social: Links to connect with me above
 ```
 
+#
+
 <div align="left">
   <img src="commands/echo_thanks.svg" alt="Command: echo thanks">
 </div>
