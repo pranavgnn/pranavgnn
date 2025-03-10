@@ -56,18 +56,18 @@
   <img src="commands/cat_contact.svg" alt="Command: cat contact.md">
 </div>
 
-<div align="center">
-  <a href="https://www.instagram.com/pranav.idk">
-    <img src="socials/instagram.svg" alt="Instagram" width="40" height="40">
+<div align="left">
+  <a href="https://www.instagram.com/pranav.idk" target="_blank">
+    <img src="socials/instagram.svg" alt="Instagram" width="20" height="20">
   </a>
-  <a href="https://www.linkedin.com/in/pranav-g-nayak-a68101146">
-    <img src="socials/linkedin.svg" alt="LinkedIn" width="40" height="40">
+  <a href="https://www.linkedin.com/in/pranav-g-nayak-a68101146" target="_blank">
+    <img src="socials/linkedin.svg" alt="LinkedIn" width="20" height="20">
   </a>
-  <a href="https://pranavgn.me">
-    <img src="socials/website.svg" alt="Portfolio Website" width="40" height="40">
+  <a href="https://pranavgn.me" target="_blank">
+    <img src="socials/website.svg" alt="Portfolio Website" width="20" height="20">
   </a>
-  <a href="https://discord.com/users/vex.what">
-    <img src="socials/discord.svg" alt="Discord" width="40" height="40">
+  <a href="https://discord.com/users/vex.what" target="_blank">
+    <img src="socials/discord.svg" alt="Discord" width="20" height="20">
   </a>
 </div>
 
