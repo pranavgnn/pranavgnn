@@ -32,7 +32,7 @@
   <img src="commands/cat_projects.svg" alt="Command: cat projects.md">
 </div>
 
-<div align="center" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
+<div align="left" style="display: flex; flex-wrap: wrap; justify-content: center; gap: 20px; margin: 20px 0;">
   <a href="https://github.com/Finova-MIT/finova-website" target="_blank" style="text-decoration: none;">
     <img src="projects/finova-website.svg" alt="Finova Website Project" width="400">
   </a>
@@ -56,17 +56,8 @@
   <img src="commands/cat_contact.svg" alt="Command: cat contact.md">
 </div>
 
-<div align="center">
-  <a href="https://www.instagram.com/pranav.idk">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/instagram.svg" alt="Instagram" width="32" height="32">
-  </a>
-  <a href="https://www.linkedin.com/in/pranav-g-nayak-a68101146">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/linkedin.svg" alt="LinkedIn" width="32" height="32">
-  </a>
-  <a href="https://discord.com/users/vex.what">
-    <img src="https://raw.githubusercontent.com/CLorant/readme-social-icons/main/large/filled/discord.svg" alt="Discord" width="32" height="32">
-  </a>
-</div>
+
+[LinkedIn](https://www.linkedin.com/in/pranav-g-nayak-a68101146) ⁝ [Instagram](https://www.instagram.com/pranav.idk) ⁝ [Discord](https://discord.com/users/vex.what)
 
 ```txt
 📧 Email: pranavgnayak@gmail.com
