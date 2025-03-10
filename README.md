@@ -65,8 +65,6 @@
 📱 Social: Links to connect with me above
 ```
 
-<div align="center">
-  <pre style="background-color: #333; padding: 10px; border-radius: 5px; color: #00FF00; display: inline-block; text-align: left;">
-    pranavgnn@portfolio:~$ <span style="color: #FFFFFF;">echo</span> <span style="color: #3498db;">"Thanks for visiting my profile!"</span>
-  </pre>
+<div align="left">
+  <img src="commands/echo_thanks.svg" alt="Command: echo thanks">
 </div>

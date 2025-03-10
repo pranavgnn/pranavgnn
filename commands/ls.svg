@@ -1,14 +1,9 @@
 <svg width="340" height="50" xmlns="http://www.w3.org/2000/svg">
-  <style>
-    .prompt { fill: #00FF00; } /* Green color for prompt */
-    .command { fill: #FFFFFF; } /* White for command */
-    .param { fill: #3498db; }   /* Blue for parameters */
-  </style>
   <text x="10" y="20" font-family="monospace" font-size="14">
-    <tspan class="prompt">pranav@portfolio:~$</tspan>
-    <tspan class="command" dx="5">ls</tspan>
+    <tspan fill="#00FF00">pranav@portfolio:~$</tspan>
+    <tspan fill="#FFFFFF" dx="5">ls</tspan>
   </text>
   <text x="10" y="40" font-family="monospace" font-size="14">
-    <tspan class="param">about.md projects.md contact.md</tspan>
+    <tspan fill="#dbbf34">about.md projects.md contact.md</tspan>
   </text>
 </svg>

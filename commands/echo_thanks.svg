@@ -1,0 +1,10 @@
+<svg width="420" height="50" xmlns="http://www.w3.org/2000/svg">
+  <text x="10" y="20" font-family="monospace" font-size="14">
+    <tspan fill="#00FF00">pranav@portfolio:~$</tspan>
+    <tspan fill="#FFFFFF" dx="5">echo </tspan>
+    <tspan fill="#3498db">"Thanks for visiting!"</tspan>
+  </text>
+  <text x="10" y="40" font-family="monospace" font-size="14">
+    <tspan fill="#dbbf34">Thanks for visiting!</tspan>
+  </text>
+</svg>
