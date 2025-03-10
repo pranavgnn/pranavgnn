@@ -1,0 +1,40 @@
+<svg width="400" height="200" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200">
+  <rect width="400" height="200" rx="10" ry="10" fill="#2D333B" stroke="#444c56" stroke-width="1"/>
+  
+  <!-- Header with terminal look -->
+  <rect x="10" y="10" width="380" height="30" rx="5" ry="5" fill="#1C1E26"/>
+  <circle cx="25" cy="25" r="6" fill="#FF5F56"/>
+  <circle cx="45" cy="25" r="6" fill="#FFBD2E"/>
+  <circle cx="65" cy="25" r="6" fill="#27C93F"/>
+  <text x="200" y="28" font-family="Arial" font-size="12" text-anchor="middle" fill="white">lyrics-video-maker.py</text>
+  
+  <!-- Project details -->
+  <text x="20" y="60" font-family="Arial" font-size="16" font-weight="bold" fill="#E6EDF3">📂 lyrics-video-maker</text>
+  
+  <text x="20" y="85" font-family="Arial" font-size="12" fill="#768390">An automation CLI that creates Lyrical Music Videos given the song name and the artist.</text>
+
+  <text x="20" y="115" font-family="Arial" font-size="12" fill="#ADBAC7">
+    <tspan font-weight="bold">Tech stack: </tspan>
+    <tspan fill="#3572A5">Python3</tspan>
+    <tspan> + </tspan>
+    <tspan fill="#FF8C00">Selenium</tspan>
+    <tspan> + </tspan>
+    <tspan fill="#F05032">Moviepy</tspan>
+    <tspan> + </tspan>
+    <tspan fill="#5C3EE8">OpenCV</tspan>
+    <tspan> + </tspan>
+    <tspan fill="#FFA500">Librosa</tspan>
+  </text>
+  
+  <!-- Links as terminal commands -->
+  <text x="20" y="145" font-family="monospace" font-size="12" fill="#00FF00">pranavgnn@portfolio:~$</text>
+  <text x="190" y="145" font-family="monospace" font-size="12" fill="#FFFFFF">open</text>
+  <a href="https://github.com/pranavgnn/lyrics-video-maker" target="_blank">
+    <text x="225" y="145" font-family="monospace" font-size="12" fill="#3498DB" text-decoration="underline">github-repo</text>
+  </a>
+  
+  <text x="20" y="170" font-family="monospace" font-size="12" fill="#00FF00">pranavgnn@portfolio:~$</text>
+  <text x="190" y="170" font-family="monospace" font-size="12" fill="#FFFFFF">python</text>
+  <text x="235" y="170" font-family="monospace" font-size="12" fill="#9A5AC2">main.py</text>
+  <text x="280" y="170" font-family="monospace" font-size="12" fill="#3498DB">--song "Your Song"</text>
+</svg>
