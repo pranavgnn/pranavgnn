@@ -23,8 +23,7 @@
 
 🌱 I'm always learning and exploring new technologies.
 
-🎓 2nd year BTech student pursuing Computer Science and Financial Technology @ Manipal Institute of Technology
-    and Integrated MTech in entrepreneurship.
+🎓 2nd year BTech student pursuing Computer Science and Financial Technology @ Manipal Institute of Technology, and Integrated MTech in entrepreneurship.
 ```
 
 ## Projects
@@ -33,22 +32,46 @@
   <img src="commands/cat_projects.svg" alt="Command: cat projects.md">
 </div>
 
-```txt
-📂 Project 1: Finova Website
-   - Description: Official website for Finova, a technical club at Manipal Institute of Technology.
-   - Tech stack: Next.js + React + TailwindCSS + ShadCN/ui
-   - Link: https://github.com/Finova-MIT/finova-website ⁝ https://www.finovamanipal.org
+<div align="center">
+  <div style="display: grid; grid-template-columns: repeat(2, 1fr); gap: 20px;">
+    <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; text-align: left;">
+      <h3>📂 <a href="https://github.com/Finova-MIT/finova-website">finova-website</a></h3>
+      <p>Official website for Finova, a technical club at Manipal Institute of Technology.</p>
+      <p><strong>Tech:</strong> Next.js + React + TailwindCSS + ShadCN/ui</p>
+      <p>
+        <span>⭐ 0</span> • 
+        <span>👀 0</span> • 
+        <span>🔄 0</span> • 
+        <a href="https://www.finovamanipal.org">Live Demo</a>
+      </p>
+      <small>Last updated: 2023-03-10</small>
+    </div>
+    <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; text-align: left;">
+      <h3>📂 <a href="https://github.com/pranavgnn/lyrics-video-maker">lyrics-video-maker</a></h3>
+      <p>An automation CLI that creates Lyrical Music Videos given the song name and the artist.</p>
+      <p><strong>Tech:</strong> Python3 + Selenium + Moviepy + OpenCV + Librosa</p>
+      <p>
+        <span>⭐ 0</span> • 
+        <span>👀 0</span> • 
+        <span>🔄 0</span>
+      </p>
+      <small>Last updated: 2023-03-10</small>
+    </div>
+    <div style="border: 1px solid #30363d; border-radius: 6px; padding: 16px; text-align: left;">
+      <h3>📂 <a href="https://github.com/pranavgnn/mutualfunds-calc">mutualfunds-calc</a></h3>
+      <p>A desktop application that allows you to estimate returns given the fund name, SIP amount and duration.</p>
+      <p><strong>Tech:</strong> Java + Swing + Requests</p>
+      <p>
+        <span>⭐ 0</span> • 
+        <span>👀 0</span> • 
+        <span>🔄 0</span>
+      </p>
+      <small>Last updated: 2023-03-10</small>
+    </div>
+  </div>
+</div>
 
-📂 Project 2: Lyrics Video Maker
-   - Description: An automation CLI that creates Lyrical Music Videos given the song name and the artist.
-   - Tech stack: Python3 + Selenium + Moviepy + OpenCV + Librosa
-   - Link: https://github.com/pranavgnn/lyrics-video-maker
-
-📂 Project 3: Mutual Funds Calculator
-   - Description: A desktop application that allows you to estimate returns given the fund name, SIP amount and duration.
-   - Tech stack: Java + Swing + Requests
-   - Link: https://github.com/pranavgnn/mutualfunds-calc
-```
+<div align="center"><small><i>Automatically updated on 2025-03-10 16:14:35 UTC</i></small></div>
 
 ## Contact
 
