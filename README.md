@@ -25,13 +25,10 @@
 
 ![Command: cat contact.md](commands/cat_contact.svg)
 
-[LinkedIn](https://www.linkedin.com/in/pranav-g-nayak-a68101146) ⁝ [Instagram](https://www.instagram.com/pranav.idk) ⁝ [Discord](https://discord.com/users/vex.what)
-
-```txt
-📧 Email: pranavgnayak@gmail.com
-🌐 Website: https://pranavgn.me
-📱 Social: Links to connect with me above
-```
+[![LinkedIn](social/linkedin.svg)](https://www.linkedin.com/in/pranav-g-nayak-a68101146)
+[![Instagram](social/instagram.svg)](https://www.instagram.com/pranav.idk)
+[![Discord](social/discord.svg)](https://discord.com/users/vex.what)
+[![Website](social/website.svg)](https://pranavgn.me)
 
 #
 
