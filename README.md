@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="terminal_header.svg" alt="Terminal Header" width="1000">
+  <img src="terminal_header.svg" alt="Terminal Header" width="1080">
 </div>
 
 <br>
@@ -8,7 +8,7 @@
   <img src="commands/ls.svg" alt="Command: ls">
 </div>
 
-## About Me
+#
 
 <div align="left">
   <img src="commands/cat_about.svg" alt="Command: cat about.md">
@@ -26,7 +26,7 @@
 🎓 2nd year BTech student pursuing Computer Science and Financial Technology @ Manipal Institute of Technology, and Integrated MTech in entrepreneurship.
 ```
 
-## Projects
+#
 
 <div align="left">
   <img src="commands/cat_projects.svg" alt="Command: cat projects.md">
@@ -50,7 +50,7 @@
   </a>
 </div>
 
-## Contact
+#
 
 <div align="left">
   <img src="commands/cat_contact.svg" alt="Command: cat contact.md">
