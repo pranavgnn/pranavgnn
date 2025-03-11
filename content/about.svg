@@ -1,0 +1,28 @@
+<svg width="600" height="170" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 170">
+
+  <foreignObject x="0" y="0" width="100%" height="100%">
+    <style>
+        div {
+            margin-bottom: 10px;
+            font-family: monospace;
+            font-size: 12px;
+            color: #dbbf34;
+        }
+    </style>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      👋 Hello! I'm Pranav, a developer passionate about programming, automation and cybersecurity.
+    </div>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        💻 My skills include fullstack development, scraping, software development and automation.
+    </div>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        🚀 Currently working on website development and automation optimization.
+    </div>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        🌱 I'm always learning and exploring new technologies.
+    </div>
+    <div xmlns="http://www.w3.org/1999/xhtml">
+        🎓 2nd year BTech student pursuing Computer Science and Financial Technology @ Manipal Institute of Technology, and Integrated MTech in entrepreneurship.
+    </div>
+  </foreignObject>
+</svg>

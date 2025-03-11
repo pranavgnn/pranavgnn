@@ -10,17 +10,7 @@
 
 ![Command: cat about.md](commands/cat_about.svg)
 
-```txt
-👋 Hello! I'm Pranav, a developer passionate about programming.
-
-💻 My skills include fullstack development, scraping, software development and automation.
-
-🚀 Currently working on website development and automation optimization.
-
-🌱 I'm always learning and exploring new technologies.
-
-🎓 2nd year BTech student pursuing Computer Science and Financial Technology @ Manipal Institute of Technology, and Integrated MTech in entrepreneurship.
-```
+![About me content](content/about.svg)
 
 #
 
