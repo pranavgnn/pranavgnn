@@ -1,5 +1,6 @@
 <svg width="69" height="30" xmlns="http://www.w3.org/2000/svg">
-  <text x="10" y="20" font-family="monospace" font-size="14" fill="#dbbf34">
+  <rect x="1" y="1" width="67" height="28" rx="4" ry="4" fill="none" stroke="#dbbf34" stroke-width="1"/>
+  <text x="34.5" y="20" font-family="monospace" font-size="14" fill="#dbbf34" text-anchor="middle">
     Discord
   </text>
 </svg>
