@@ -1,0 +1,13 @@
+<svg width="820" height="104" viewBox="0 0 820 104" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="0" y="0" width="820" height="104">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; line-height: 1.55; border-left: 2px solid #F47067; padding: 4px 0 4px 14px;">
+      <div style="display: flex; align-items: center; gap: 10px; white-space: nowrap;">
+        <span style="color: #dbbf34; font-weight: bold;">baton/</span>
+        <span style="flex: 1 1 auto; border-bottom: 1px dashed #3d444d; height: 0;"></span>
+        <span style="color: #768390;"><span style="color:#F47067">Next.js</span> &#183; <span style="color:#79C0FF">TypeScript</span> &#183; <span style="color:#7EE787">PostgreSQL</span> &#183; <span style="color:#D2A8FF">Drizzle</span></span>
+      </div>
+      <div style="color: #909dab; margin: 2px 0 4px 0; max-width: 780px;">Self-hosted portal for anything that gets submitted, reviewed in turn and decided. The process graph, the forms and the emails are all drawn in the admin UI, never written in code.</div>
+      <div style="white-space: nowrap;"><span style="color: #00FF00;">pranav@portfolio:~$</span> <span style="color:#FFFFFF;">pnpm</span> <span style="color:#3498DB;">dev</span></div>
+    </div>
+  </foreignObject>
+</svg>

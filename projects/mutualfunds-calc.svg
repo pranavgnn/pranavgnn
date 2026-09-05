@@ -1,37 +1,13 @@
-<svg width="400" height="180" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 180">
-  <rect width="400" height="180" rx="10" ry="10" fill="#2D333B" stroke="#444c56" stroke-width="1"/>
-  
-  <!-- Header with terminal look -->
-  <rect x="10" y="10" width="380" height="30" rx="5" ry="5" fill="#1C1E26"/>
-  <circle cx="25" cy="25" r="6" fill="#FF5F56"/>
-  <circle cx="45" cy="25" r="6" fill="#FFBD2E"/>
-  <circle cx="65" cy="25" r="6" fill="#27C93F"/>
-  <text x="200" y="28" font-family="Arial" font-size="12" text-anchor="middle" fill="white">mutualfunds-calc.java</text>
-  
-  <!-- Project details -->
-  <text x="20" y="60" font-family="Arial" font-size="16" font-weight="bold" fill="#E6EDF3">📂 mutualfunds-calc</text>
-  
-  <!-- Description with text wrapping -->
-  <foreignObject x="20" y="70" width="360" height="50">
-    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: Arial; font-size: 12px; color: #768390;">
-      A desktop application that allows you to estimate returns given the fund name, SIP amount and duration.
+<svg width="820" height="104" viewBox="0 0 820 104" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="0" y="0" width="820" height="104">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; line-height: 1.55; border-left: 2px solid #B07219; padding: 4px 0 4px 14px;">
+      <div style="display: flex; align-items: center; gap: 10px; white-space: nowrap;">
+        <span style="color: #dbbf34; font-weight: bold;">mutualfunds-calc/</span>
+        <span style="flex: 1 1 auto; border-bottom: 1px dashed #3d444d; height: 0;"></span>
+        <span style="color: #768390;"><span style="color:#B07219">Java</span> &#183; <span style="color:#2C8EBB">Swing</span> &#183; <span style="color:#E34C26">Requests</span></span>
+      </div>
+      <div style="color: #909dab; margin: 2px 0 4px 0; max-width: 780px;">A desktop calculator that estimates mutual fund returns from the fund name, SIP amount and duration, pulling live NAV history rather than assuming a flat rate.</div>
+      <div style="white-space: nowrap;"><span style="color: #00FF00;">pranav@portfolio:~$</span> <span style="color:#FFFFFF;">java</span> <span style="color:#9A5AC2;">-jar</span> <span style="color:#3498DB;">MutualFundsCalc.jar</span></div>
     </div>
   </foreignObject>
-
-  <!-- Tech stack -->
-  <text x="20" y="125" font-family="Arial" font-size="12" fill="#ADBAC7">
-    <tspan font-weight="bold">Tech stack: </tspan>
-    <tspan fill="#B07219">Java</tspan>
-    <tspan> + </tspan>
-    <tspan fill="#2C8EBB">Swing</tspan>
-    <tspan> + </tspan>
-    <tspan fill="#E34C26">Requests</tspan>
-  </text>
-  
-  <text x="20" y="150" font-family="monospace" font-size="12" fill="#FFFFFF">
-    <tspan fill="#00FF00">pranav@portfolio:~$</tspan>
-    <tspan>java </tspan>
-    <tspan fill="#9A5AC2">-jar </tspan>
-    <tspan fill="#3498DB">MutualFundsCalc.jar</tspan>
-  </text>
 </svg>
