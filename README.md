@@ -16,10 +16,11 @@
 
 ![Command: cat projects.md](commands/cat_projects.svg)
 
-[![Finova Website Project](projects/finova-website.svg)](https://github.com/Finova-MIT/finova-website)
-[![Lyrics Video Maker Project](projects/lyrics-video-maker.svg)](https://github.com/pranavgnn/lyrics-video-maker)
-[![Mutual Funds Calculator Project](projects/mutualfunds-calc.svg)](https://github.com/pranavgnn/mutualfunds-calc)
-[![EpiCord Discord Bot Project](projects/epicord.svg)](https://github.com/pranavgnn/epicbot-js)
+[![baton](projects/baton.svg)](https://github.com/pranavgnn/baton)
+
+[![parkcentral](projects/parkcentral.svg)](https://github.com/pranavgnn/parkcentral)
+
+[![epicord](projects/epicord.svg)](https://github.com/pranavgnn/epicbot-js)
 
 #
 

@@ -1,0 +1,12 @@
+<svg width="820" height="76" viewBox="0 0 820 76" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="10" y="0" width="800" height="76">
+    <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; line-height: 1.55; border-left: 2px solid #79C0FF; padding: 4px 0 4px 14px;">
+      <div style="display: flex; align-items: center; gap: 10px; white-space: nowrap;">
+        <span style="color: #dbbf34; font-weight: bold;">parkcentral/</span>
+        <span style="flex: 1 1 auto; border-bottom: 1px dashed #3d444d; height: 0;"></span>
+        <span style="color: #768390;"><span style="color:#F47067">Next.js</span> &#183; <span style="color:#79C0FF">TypeScript</span> &#183; <span style="color:#7EE787">PostgreSQL</span> &#183; <span style="color:#8CD98C">Leaflet</span></span>
+      </div>
+      <div style="color: #909dab; margin: 2px 0 0 0; max-width: 780px;">Smart city parking you book before you arrive &#8212; find a lot on a live OpenStreetMap map, soft-lock a slot sized to your vehicle for as long as the drive takes, and walk in with a signed QR that needs no signal.</div>
+    </div>
+  </foreignObject>
+</svg>
