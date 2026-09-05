@@ -1,13 +1,12 @@
-<svg width="820" height="104" viewBox="0 0 820 104" xmlns="http://www.w3.org/2000/svg">
-  <foreignObject x="0" y="0" width="820" height="104">
+<svg width="820" height="76" viewBox="0 0 820 76" xmlns="http://www.w3.org/2000/svg">
+  <foreignObject x="0" y="0" width="820" height="76">
     <div xmlns="http://www.w3.org/1999/xhtml" style="font-family: ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace; font-size: 13px; line-height: 1.55; border-left: 2px solid #F1E05A; padding: 4px 0 4px 14px;">
       <div style="display: flex; align-items: center; gap: 10px; white-space: nowrap;">
         <span style="color: #dbbf34; font-weight: bold;">epicord/</span>
         <span style="flex: 1 1 auto; border-bottom: 1px dashed #3d444d; height: 0;"></span>
         <span style="color: #768390;"><span style="color:#F1E05A">JavaScript</span> &#183; <span style="color:#5865F2">Discord.js</span> &#183; <span style="color:#13AA52">MongoDB</span> &#183; <span style="color:#F78166">Express</span></span>
       </div>
-      <div style="color: #909dab; margin: 2px 0 4px 0; max-width: 780px;">A multi-purpose Discord bot with utility, fun, moderation and currency commands &#8212; economy state, per-guild config and command handling all in one process.</div>
-      <div style="white-space: nowrap;"><span style="color: #00FF00;">pranav@portfolio:~$</span> <span style="color:#FFFFFF;">npm</span> <span style="color:#3498DB;">start</span></div>
+      <div style="color: #909dab; margin: 2px 0 0 0; max-width: 780px;">A multi-purpose Discord bot with utility, fun, moderation and currency commands &#8212; economy state, per-guild config and command handling all in one process.</div>
     </div>
   </foreignObject>
 </svg>

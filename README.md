@@ -16,11 +16,9 @@
 
 ![Command: cat projects.md](commands/cat_projects.svg)
 
-[![baton](projects/baton.svg)](https://github.com/pranavgnn/mit-promotion-application-portal)
+[![baton](projects/baton.svg)](https://github.com/pranavgnn/baton)
 
-[![lyrics-video-maker](projects/lyrics-video-maker.svg)](https://github.com/pranavgnn/lyrics-video-maker)
-
-[![mutualfunds-calc](projects/mutualfunds-calc.svg)](https://github.com/pranavgnn/mutualfunds-calc)
+[![parkcentral](projects/parkcentral.svg)](https://github.com/pranavgnn/parkcentral)
 
 [![epicord](projects/epicord.svg)](https://github.com/pranavgnn/epicbot-js)
 
